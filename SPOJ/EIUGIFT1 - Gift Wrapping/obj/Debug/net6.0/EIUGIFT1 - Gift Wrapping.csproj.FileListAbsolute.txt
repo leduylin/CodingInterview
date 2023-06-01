@@ -1,0 +1,15 @@
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\bin\Debug\net6.0\EIUGIFT1 - Gift Wrapping.exe
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\bin\Debug\net6.0\EIUGIFT1 - Gift Wrapping.deps.json
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\bin\Debug\net6.0\EIUGIFT1 - Gift Wrapping.runtimeconfig.json
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\bin\Debug\net6.0\EIUGIFT1 - Gift Wrapping.dll
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\bin\Debug\net6.0\EIUGIFT1 - Gift Wrapping.pdb
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.csproj.AssemblyReference.cache
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.AssemblyInfoInputs.cache
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.AssemblyInfo.cs
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.csproj.CoreCompileInputs.cache
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.dll
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\refint\EIUGIFT1 - Gift Wrapping.dll
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.pdb
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\EIUGIFT1 - Gift Wrapping.genruntimeconfig.cache
+D:\CodingInterview\SPOJ\EIUGIFT1 - Gift Wrapping\obj\Debug\net6.0\ref\EIUGIFT1 - Gift Wrapping.dll
