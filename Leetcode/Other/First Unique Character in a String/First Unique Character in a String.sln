@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Unique Character in a String", "First Unique Character in a String.csproj", "{8A9FA2D6-96E1-44C6-9803-BFCBA2F69193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A9FA2D6-96E1-44C6-9803-BFCBA2F69193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9FA2D6-96E1-44C6-9803-BFCBA2F69193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9FA2D6-96E1-44C6-9803-BFCBA2F69193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9FA2D6-96E1-44C6-9803-BFCBA2F69193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF95F633-0640-482A-8587-201E5B6D8BF0}
+	EndGlobalSection
+EndGlobal
